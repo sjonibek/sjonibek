@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Mongo1",
+      "category": "Fruits",
+      "freshness": "Brain New",
+      "price": 12,
+      "comment": "Fresh fruit",
+      "date": "2022-03-06T19:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Second hand",
+      "price": 12,
+      "comment": "fresh",
+      "date": "2022-03-03T19:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Samsung S10",
+      "category": "Electronics",
+      "freshness": "Brain New",
+      "price": 1000,
+      "comment": "New phone",
+      "date": "2022-03-01T19:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
